@@ -1,0 +1,23 @@
+# EchoChain Lifecycle Analytics
+
+## Objective
+
+Analyze second-hand marketplace data to understand product lifecycle, resale trends, pricing behavior, and circular economy insights.
+
+## Goals
+
+- Collect product data
+- Clean datasets
+- Analyze resale trends
+- Build dashboard
+- Generate business insights
+
+## Technologies
+
+- Python
+- Scrapy
+- Pandas
+- PySpark
+- Databricks
+- Power BI
+- Git
