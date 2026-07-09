@@ -1,27 +1,19 @@
 # Dataset Sources
 
-## Facebook Marketplace
+## Project
+EchoChain - Lifecycle Analytics
 
-Used electronics
+### Datasets Used
 
-Furniture
+| Dataset | Source | Description |
+|---------|--------|-------------|
+| OLX Dataset | Kaggle | Used product listings from OLX marketplace. |
+| eBay Products Dataset | Kaggle | Product listings and pricing information from eBay. |
+| Used Phones & Tablets Dataset | Kaggle | Details of second-hand phones and tablets. |
 
-Vehicles
+### Download Date
+09 July 2026
 
-## eBay
-
-Second-hand electronics
-
-Home appliances
-
-Fashion
-
-## OLX
-
-Mobiles
-
-Cars
-
-Furniture
-
-Books
+### Notes
+- All datasets are stored in `data/raw/`.
+- These datasets will be cleaned and merged during preprocessing.
