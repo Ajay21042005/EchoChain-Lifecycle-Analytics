@@ -62,15 +62,33 @@ EchoChain-Lifecycle-Analytics
 - Built a Power BI dashboard
 - Managed the project using Git and GitHub
 
-## Dashboard
+## Dashboard Overview
 
-The dashboard includes:
+The project includes two interactive Power BI dashboard pages.
 
-- Total Listings
-- Top Brands
-- Top Manufacturers
-- Used Price vs Days Used
-- Overall marketplace insights
+Page 1 – Overall Marketplace Analysis
+- Total OLX Listings
+- Total eBay Listings
+- Total Used Device Listings
+- Top 10 OLX Mobile Brands
+- Top 10 eBay Manufacturers
+- Used Price vs Days Used Scatter Plot
+
+Page 2 – Used Devices Analysis
+- Used Devices Brand Distribution (Treemap)
+- Operating System Distribution
+- Devices by Release Year
+- Total Used Devices
+- 4G Connectivity Distribution
+- 5G Connectivity Distribution
+- Brand Filter (Slicer)
+
+## Key Insights
+- Android devices dominate the used device market.
+- Samsung, LG, Lenovo, and Xiaomi are among the most common brands.
+- Most devices support 4G, while fewer support 5G.
+- Device listings vary across different release years.
+- Interactive filters allow brand-wise analysis.
 
 ## Challenges Faced
 
